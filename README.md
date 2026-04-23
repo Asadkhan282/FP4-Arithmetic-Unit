@@ -9,11 +9,11 @@ The design was verified with a full timing analysis to ensure high-speed reliabi
 * **Worst Negative Slack (WNS):** 1.898 ns (Met)
 * **Total Failing Endpoints:** 0
 
-![Design Timing Summary](1776935928085710694340632774328_df81e4.jpg)
+![Design Timing Summary]
 
 ### 🛠️ Hardware Implementation
 Successful RTL-to-Bitstream flow completed for the Xilinx Artix-7 fabric.
 
-![Bitstream Generation Success](17769356275664963297630857606845_df76a2.jpg)
+![Bitstream Generation Success]
 <img width="1915" height="1016" alt="FP4 Arithmetic" src="https://github.com/user-attachments/assets/451e2d8c-b477-41df-a976-c314efa409c5" />
 <img width="1902" height="986" alt="fp4" src="https://github.com/user-attachments/assets/0a1ae52b-2416-420b-8694-4888e60c398b" />
