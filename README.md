@@ -1,3 +1,4 @@
+<img width="1918" height="1023" alt="gds2" src="https://github.com/user-attachments/assets/c305a94e-3baf-4d84-bd52-4d75aa0551c4" />
 # FP4-Arithmetic-Unit
 
 High-performance 4-bit floating-point (FP4) arithmetic unit optimized for Xilinx Artix-7 (xc7a35t). Achieved 200 MHz timing closure with 1.898 ns WNS for AI hardware acceleration.
