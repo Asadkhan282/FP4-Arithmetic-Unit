@@ -1,6 +1,7 @@
 # FP4 Arithmetic Unit — RTL to GDSII
 
-![GDSII Layout](results/screenshots/klayout_gdsii.png)
+![GDSII Layout](<img width="1913" height="1012" alt="gds" src="https://github.com/user-attachments/assets/cf73210e-db19-4d1e-9f21-6c8d5e3e1be7" />
+)
 
 > Custom 4-bit Floating Point (FP4 E2M1) Arithmetic Unit designed 
 > for AI inference acceleration — achieving **200 MHz timing closure** 
